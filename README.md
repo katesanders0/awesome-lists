@@ -74,7 +74,9 @@ If for nothing else then to provide and opportunity for someone who has not cont
 
 ### Education
 * [Awesome Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)
-* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) 
+* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+* [Awesome Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+  
 ### Awesome Papers / Articles
 * [Awesome Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
 
